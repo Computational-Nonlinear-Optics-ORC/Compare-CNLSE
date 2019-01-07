@@ -1,5 +1,5 @@
 # banded-nlse
-[![Build Status](https://travis-ci.org/ibegleris/Compare-CNLSE.svg?branch=master)](https://travis-ci.org/ibegleris/Compare-CNLSE)
+[![Build Status](https://travis-ci.org/Computational-Nonlinear-Optics-ORC/Compare-CNLSE.svg?branch=master)](https://travis-ci.org/Computational-Nonlinear-Optics-ORC/Compare-CNLSE)
 
 [![DOI](https://zenodo.org/badge/132150278.svg)](https://zenodo.org/badge/latestdoi/132150278)
 
